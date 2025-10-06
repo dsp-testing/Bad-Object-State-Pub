@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   dio: ^5.4.0
-  dio_cache_interceptor: ^3.5.0
+  dio_cache_interceptor: ^4.0.5
   file_picker: ^9.0.2
   percent_indicator: ^4.2.2
   xml: ^6.3.0
